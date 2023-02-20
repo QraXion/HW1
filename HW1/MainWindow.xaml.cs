@@ -22,7 +22,7 @@ namespace HW1
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();//010101
         }
     }
 }
